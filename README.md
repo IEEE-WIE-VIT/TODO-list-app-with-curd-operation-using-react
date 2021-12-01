@@ -1,5 +1,8 @@
 # React-and-TypeScript-Project
 
+# TODO-list-app-with-curd-operation-using-react
+Team members: Ananya Ghosh, Sanskriti, Doyel, Chitteshwari
+
 <h1 align="center"> Todo list App </h1>
 
 <h2 align="center"> Screenshots </h2>
